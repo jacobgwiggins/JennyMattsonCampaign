@@ -1,4 +1,5 @@
-This is a personal project. It's a website for a local political campaign. It's functional, but not deployed. Built on the template below.
+This is a personal project. It's a website for a local political campaign. It's functional, but not deployed.
+Built on the template below. Needs to be personalized for politician. Abandoned for Wordpress because I wanted to show proficiency in Wordpress for a possible job opportunity.
 
 
 ======================================================================
